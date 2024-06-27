@@ -2,7 +2,7 @@
   "ModId": "rabbitsteel.ffxiv",
   "ModName": "Rabbit and Steel FFXIV Mod",
   "ModAuthor": "Seyren",
-  "ModVersion": "1.0.0",
+  "ModVersion": "1.0.1",
   "ModDescription": "Mod that uses elements from Final Fantasy XIV.",
   "ModDll": "",
   "ModIcon": "FFXIVIcon.png",
@@ -57,7 +57,9 @@
     }
   },
   "IsUniversalMod": false,
-  "ModDependencies": [],
+  "ModDependencies": [
+    "rabbitsteel.modmanager"
+  ],
   "OptionalDependencies": [],
   "SupportedAppId": [
     "rabbitsteel.exe"

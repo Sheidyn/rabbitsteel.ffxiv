@@ -14,9 +14,9 @@ itdesc_darkspell,DUALCAST,闇魔法,黑暗法咒
 itdesc_vanish,SHADE SHIFT,雲隠れ,隐身
 itdesc_ghost,HIDDEN,幽霊,鬼魂
 itdesc_warcry,TECHNICAL FINISH,激励,战吼
-itdesc_stoneskin,STONESKIN,硬化,石肤
-itdesc_graniteskin,GRANITESKIN,岩化,大理石肤
-itdesc_lucky,RABBITLUCK,ウサギの幸運,兔兔好运
+itdesc_stoneskin,STRONGHOLD,硬化,石肤
+itdesc_graniteskin,RAMPART,岩化,大理石肤
+itdesc_lucky,LUCKY CARROT,ウサギの幸運,兔兔好运
 itdesc_super,EPIC ECHO,スーパー,超化
 itdesc_flutterstep,EXPEDIENCE,蝶の飛翔,步生莲
 itdesc_haste,HASTE,加速,加速
@@ -37,8 +37,8 @@ itdesc_flashstr,THE SPIRE,フラッシュ・強さ,闪烁-力量
 itdesc_flashdex,THE BOLE,フラッシュ・機敏さ,闪烁-机敏
 itdesc_flashint,THE EWER,フラッシュ・知恵,闪烁-智能
 ,,,
-itdesc_astra,ASTRA,アストラ,星辉
-itdesc_nova,NOVA,ノヴァ,新星
+itdesc_astra,CIRCLE OF POWER,アストラ,星辉
+itdesc_nova,ENOCHIAN,ノヴァ,新星
 itdesc_hex,VULNERABILITY UP,魔術,咒术
 itdesc_hex_super,S VULNERABILITY UP,超魔術,超咒
 itdesc_hex_poison,FRAZZLE,毒魔術,毒咒
