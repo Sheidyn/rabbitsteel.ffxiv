@@ -1,0 +1,105 @@
+key,level,English,Japanese,Chinese
+,,,,
+,,,,
+hbs_vanish,0,Shade Shift: Disappear and evade attacks# until you use an attack.#Increases damage dealt by 30%.,雲隠れ: 攻撃をするまで#姿を消して攻撃を避ける。#与えるダメージが30%増加する。,隐身：消失，避开攻击，再次攻击时会现身。#伤害提升30%。
+hbs_ghost,0,Hidden: Disappear and evade attacks until you#use an attack. Slows movement and#increases damage dealt by 60%.,雲隠れ: 攻撃をするまで姿を消して攻撃を避ける。#移動速度が落ち、与えるダメージが60%増加する。,鬼魂：消失，避开攻击，再次攻击时会现身。#移动速度减缓。伤害提升60%。
+hbs_warcry,0,Technical Finish: Deal 20% more damage.,激励: 与えるダメージが20%増加する。,战吼：伤害提升20%。
+hbs_flutterstep,0,Expedience: Movement speed and mobility# are increased.,高速ステップ: 移動速度と可動性が#向上する。,步生莲：移动速度加快，灵活性增强。
+,,,,
+,,,,
+hbs_lucky,0,Lucky Carrot: Temporarily become#extremely lucky.,ウサギの幸運: 一時的にとても運がよくなる。,兔兔好运：短时好运爆棚。
+hbs_stoneskin,0,Stronghold: Shields you from damage once.#Erases bullets in a radius upon wearing off.,硬化: ダメージから1回身を守る。#消滅する時、円状に弾丸を消滅させる。,石肤：可以令你免除一次伤害。
+hbs_graniteskin,0,"Rampart: Shields you from damage once.#Slows movement dramatically, #increases damage by 20%,#and lasts until you are shielded.",岩化: ダメージから1回身を守る。#移動速度が極端に落ち、#与えるダメージが20%増加し#ダメージを受けるまで効果が残る。,大理石肤：可以令你免除一次伤害。#令移动速度大幅减缓，#伤害提升20%，#效果持续至“伤害免除”效果触发。
+hbs_super,0,"Epic Echo: Become faster, more mobile, invincible,#and deal 30% more damage.",スーパー: 速くなり、動きやすくなり、無敵状態になり、#与えるダメージが30%増加する。,超化：变得更快，更灵活，伤害提升30%。
+hbs_elegy,0,Elegy: Deal 30% more damage.,哀歌: 与えるダメージが30%増加する。,挽歌：伤害提升30%。
+,,,,
+,,,,
+hbs_haste,0,Haste: Hastens GCD actions by 20%.,加速: GCDアクションを20%速める。,加速：全局冷却时间缩短20%。
+hbs_smite,0,Damage Up: Deal 10% more damage.,聖なる力: 与えるダメージが10%増加する。,神力：伤害提升10%。
+hbs_counter,0,Counter: Deal 50% more damage.#Wears off when you use an attack.,カウンター: 与えるダメージが50%増加する。#攻撃を発動する時に消滅する。,反击：伤害提升50%。#发动攻击时消失。
+,,,,
+hbs_blackstrike,0,Kaiten: Deal 200% more damage.#Wears off when you use an attack.,ブラックストライク: 与えるダメージが200%増加する。#攻撃を発動する時に消滅する。,黑色打击：伤害提升200%。#发动攻击时消失。
+hbs_stillness,0,Divination: Deal 30% more damage.#Wears off if you move too far.,安らぎ: 与えるダメージが30%増加する。#長い距離を移動しすぎると消滅する。,宁静：伤害提升30%。#如果移动太多，就会消失。
+,,,,
+hbs_quickness,0,Quickness: Your GCDs all become 0.8 seconds.,速さ: GCDがすべて0.8秒になる。,迅捷：你所有全局冷却时间都变成0.8秒。
+hbs_repeat,0,Repeat: Your Special's cooldown instantly#resets upon use.,リピート: スペシャルスキルのクールダウンが#発動と同時にリセットされる。,反复：你特殊技能发动之后立刻结束冷却。
+,,,,
+hbs_flowstr,0,The Balance: Your Primary deals#70% more damage.,フロー・強さ: プライマリスキルの与えるダメージが#70%増加する。,流动-力量：你主技能伤害提升70%。
+hbs_flowdex,0,The Arrow: Your Secondary deals#70% more damage.,フロー・機敏さ: セカンダリスキルの与えるダメージが#70%増加する。,流动-机敏：你辅技能伤害提升70%。
+hbs_flowint,0,The Spear: Your Special deals#70% more damage.,フロー・知恵: スペシャルスキルの与えるダメージが#70%増加する。,流动-智能：你特殊技能伤害提升70%。
+,,,,
+hbs_flashstr,0,The Spire: Your next Primary deals#150% more damage.#Wears off when you use an attack.,フラッシュ・強さ: 次のプライマリスキルの与える#ダメージが150%増加する。#攻撃を発動する時に消滅する。,闪烁-力量：你下一次主技能伤害提升150%。#发动攻击时消失。
+hbs_flashdex,0,The Bole: Your next Secondary deals#150% more damage.#Wears off when you use an attack.,フラッシュ・機敏さ: 次のセカンダリスキルの与える#ダメージが150%増加する。#攻撃を発動する時に消滅する。,闪烁-机敏：你下一次辅技能伤害提升150%。#发动攻击时消失。
+hbs_flashint,0,The Ewer: Your next Special deals#150% more damage.#Wears off when you use an attack.,フラッシュ・知恵: 次のスペシャルスキルの与える#ダメージが150%増加する。#攻撃を発動する時に消滅する。,闪烁-智能：你下一次特殊技能伤害提升150%。#发动攻击时消失。
+,,,,
+hbs_astra,0,Circle of Power: Deal 15% more damage.,アストラ: 与えるダメージが15%増加する。,星辉：伤害提升15%。
+hbs_nova,0,Enochian: Deal 50% more damage.,ノヴァ: 与えるダメージが50%増加する。,新星：伤害提升50%。
+,,,,
+hbs_hex,0,Vulnerability Up: Afflicted enemies take 10%#extra damage.,魔術: 苦しめられた敵が10%#多くダメージを受ける。,诅咒：受到影响的敌人所受伤害提升10%。
+hbs_hex_super,0,S Vulnerability Up: Afflicted enemies take 20%#extra damage.,超魔術: 苦しめられた敵が20%#多くダメージを受ける。,超咒：受到影响的敌人所受伤害提升20%。
+hbs_hex_poison,0,"Frazzle: Afflicted enemies take 10%#extra damage, as well as damage#over time.",毒魔術: 苦しめられた敵が10%#多くダメージを受け、さらにそのダメージが#持続する。,毒咒：受到影响的敌人所受伤害提升10%。#所受持续伤害也会提升。
+hbs_hex_anti,0,Embolden: Deal 20% more damage.,反対魔術: 与えるダメージが20%増加する。,反咒：伤害提升20%。
+,,,,
+hbs_snare,0,Stormbite: Deals damage and resets#your Special upon wearing off.,ワナ: 消滅する時にダメージを与え、#スペシャルスキルをリセットする。,圈套：消失时会立刻造成伤害，#并令你特殊技能立刻结束冷却。
+hbs_snare2,0,Tri-Snare: Deals damage and completely#restores and charges your Special upon#wearing off.,三重ワナ: ダメージを与え、消滅する時に#スペシャルスキルのチャージを#完全回復する。,三重圈套：消失时会立刻造成伤害，#令你特殊技能完全恢复，#还会给特殊技能充能。
+hbs_berserk,0,Brotherhood: GCDs become 0.8 seconds.#Movement speed is increased.,ベルセルク: GCDが0.8秒になる。#移動速度が上がる。,狂暴：全局冷却时间变成0.8秒。#移动速度加快。
+hbs_abyssrage,0,Riddle of Fire: GCDs become 0.8 seconds.#Movement speed is greatly increased.#Damage is increased by 40%.,深淵の怒り: GCDが0.8秒になる。#移動速度が大幅に上がる。#ダメージが40%増加する。,深渊激昂：全局冷却时间变成0.8秒。#移动速度大大加快。#伤害提升40%。
+,,,,
+,,,,
+hbs_curse,0,Resistance Down: Afflicted enemies take 10%#extra damage.,呪い: ダメージを受けた敵が#10%追加でダメージを受ける。,诅咒：受到影响的敌人所受伤害增加10%。
+hbs_decay,0,Decay: Deals damage once per second.,腐敗: 1秒ごとにダメージを与える。,朽败：每秒造成一次伤害。
+hbs_spark,0,Thunder: Deals damage to all enemies#once per second.,スパーク: 1秒ごとに#すべての敵にダメージを与える。,星火：每秒对所有敌人造成一次伤害。
+hbs_poison,0,Bio: Deals damage once per second.,毒: 1秒ごとにダメージを与える。,毒伤：每秒造成一点伤害。
+hbs_burn,0,"Burn: Deals damage upon wearing off,#equal to the damage of the hit that applied burn.",燃焼: 効果が切れる時に、その燃焼効果を#付与した攻撃と同等のダメージを与える。,灼烧：消失时造成伤害，#伤害数值与造成灼烧的攻击伤害相等。
+hbs_bleed,0,Bleed: Afflicted enemies take extra damage#from your abilities or loot effects.#Extra damage is reduced for allies' hits.,出血: スキルや装備品でダメージを受けた敵が#追加でダメージを受ける。#仲間が与える追加ダメージは低くなる。,出血：你技能和战利品的效果会令#受到影响的敌人受到更多伤害。#队友攻击的额外伤害减少。
+hbs_sap,0,Sap: Afflicted enemies take extra damage#from abilities or loot effects.,衰弱: スキルや装備品でダメージを受けた敵が#追加でダメージを受ける。,虚弱：敌人如果处于“虚弱”状态，#技能和战利品效果对其的伤害会增加。
+hbs_ghostflame,0,Death Warrant: Deals damage when applied#and upon wearing off.,霊炎: 効果が付けた時と#切れた時にダメージを与える。,魂焰：施加时和消失时都会造成伤害。
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+hbs_holyshield,0,Hallowed Ground,ホリーシールド,圣盾
+hbs_vanishenemy,0,Shade Shift,雲隠れ,隐身
+,,,,
+hbs_gravity,0,Gravity,重力,引力
+hbs_gravity2,0,Gravity,重力,引力
+hbs_bind,0,Bind,縛り,束缚
+hbs_teleport,0,Teleport,テレポート,传送
+hbs_teleport2,0,Teleport-L,テレポートL,远传送
+hbs_teleport3,0,Teleport-S,テレポートS,近传送
+hbs_timestop,0,Timestop,時の静止,时停
+hbs_tailwind,0,Thin Ice,乱気流,乱流
+hbs_tailwind2,0,Thin Ice,乱気流,乱流
+hbs_tether,0,House Arrest,つなぎ縄,牵制
+hbs_heavy,0,Heavy,重い,沉重
+hbs_heavy2,0,Heavy,重い,沉重
+hbs_heavyextra,0,Very Heavy,とても重い,难堪其重
+hbs_heavyextra2,0,Very Heavy,とても重い,难堪其重
+hbs_nodefense,0,No Invulnerability,ディフェンス封印,防御抑制
+,,,,
+hbs_fieldlimit_0,0,Fieldlimit-P,フィールド制限(紫),拘束（紫）
+hbs_fieldlimit_1,0,Fieldlimit-B,フィールド制限(青),拘束（蓝）
+hbs_fieldlimit_2,0,Fieldlimit-R,フィールド制限(赤),拘束（红）
+hbs_fieldlimit_3,0,Fieldlimit-Y,フィールド制限(黄),拘束（黄）
+hbs_fieldlimit_4,0,Fieldlimit-G,フィールド制限(緑),拘束（绿）
+,,,,
+hbs_fieldlimit2_0,0,Fieldlimit-P,フィールド制限(紫),拘束（紫）
+hbs_fieldlimit2_1,0,Fieldlimit-B,フィールド制限(青),拘束（蓝）
+hbs_fieldlimit2_2,0,Fieldlimit-R,フィールド制限(赤),拘束（红）
+hbs_fieldlimit2_3,0,Fieldlimit-Y,フィールド制限(黄),拘束（黄）
+hbs_fieldlimit2_4,0,Fieldlimit-G,フィールド制限(緑),拘束（绿）
+,,,,
+hbs_order_0,0,First,1番,第一
+hbs_order_1,0,Second,2番,第二
+hbs_order_2,0,Third,3番,第三
+hbs_order_3,0,Fourth,4番,第四
+hbs_order_4,0,Fifth,5番,第五
+hbs_order_5,0,Sixth,6番,第六
+hbs_order_6,0,Seventh,7番,第七
+hbs_order_7,0,Eighth,8番,第八
+,,,,
+hbs_group_0,0,First in Line,グループ1,一组
+hbs_group_1,0,Second in Line,グループ2,二组
+hbs_group_2,0,Third in Line,グループ3,三组
+hbs_group_3,0,Fourth in Line,グループ4,四组

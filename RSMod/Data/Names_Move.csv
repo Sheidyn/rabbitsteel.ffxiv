@@ -1,0 +1,378 @@
+key,level,English,Japanese,Chinese
+,,,,
+mv_none_0,0,???,???,???
+mv_none_1,0,???,???,???
+mv_none_2,0,???,???,???
+mv_none_3,0,???,???,???
+,,,,
+,,,,
+,,,,
+mv_wizard_0,0,Fire IV,ディミ・ムーンバースト,狄米月爆
+mv_wizard_1,0,Paradox,ラト・ムーンバースト,拉特月爆
+mv_wizard_2,0,Xenoglossy,星の渦,星辰漩涡
+mv_wizard_3,0,Ley Lines,星の封印,星辰封印
+,,,,
+mv_wizard_0_diamond,0,Diamond Fire IV,ディミ・ムーンバースト・ダイヤ,钻石狄米月爆
+mv_wizard_1_diamond,0,Diamond Paradox,ラト・ムーンバースト,钻石拉特月爆
+mv_wizard_2_diamond,0,Diamond Xenoglossy,星の渦・ダイヤ,钻石星辰漩涡
+mv_wizard_3_diamond,0,Diamond Ley Lines,星の封印・ダイヤ,钻石星辰封印
+,,,,
+mv_wizard_0_opal,0,Opal Fire IV,ディミ・ムーンバースト・オパール,蛋白石狄米月爆
+mv_wizard_1_opal,0,Opal Paradox,ラト・ムーンバースト・オパール,蛋白石拉特月爆
+mv_wizard_2_opal,0,Opal Xenoglossy,星の渦・オパール,蛋白石星辰漩涡
+mv_wizard_3_opal,0,Opal Ley Lines,星の封印・オパール,蛋白石星辰封印
+,,,,
+mv_wizard_0_sapphire,0,Sapphire Fire IV,ディミ・ムーンバースト・サファイア,蓝宝石狄米月爆
+mv_wizard_1_sapphire,0,Sapphire Paradox,ラト・ムーンバースト・サファイア,蓝宝石拉特月爆
+mv_wizard_2_sapphire,0,Sapphire Xenoglossy,星の渦・サファイア,蓝宝石星辰漩涡
+mv_wizard_3_sapphire,0,Sapphire Ley Lines,星の封印・サファイア,蓝宝石星辰封印
+,,,,
+mv_wizard_0_ruby,0,Ruby Fire IV,ディミ・ムーンバースト・ルビー,红宝石狄米月爆
+mv_wizard_1_ruby,0,Ruby Paradox,ラト・ムーンバースト・ルビー,红宝石拉特月爆
+mv_wizard_2_ruby,0,Ruby Xenoglossy,星の渦・ルビー,红宝石星辰漩涡
+mv_wizard_3_ruby,0,Ruby Ley Lines,星の封印・ルビー,红宝石星辰封印
+,,,,
+mv_wizard_0_garnet,0,Garnet Fire IV,ディミ・ムーンバースト・ガーネット,石榴石狄米月爆
+mv_wizard_1_garnet,0,Garnet Paradox,ラト・ムーンバースト・ガーネット,石榴石拉特月爆
+mv_wizard_2_garnet,0,Garnet Xenoglossy,星の渦・ガーネット,石榴石星辰漩涡
+mv_wizard_3_garnet,0,Garnet Ley Lines,星の封印・ガーネット,石榴石星辰封印
+,,,,
+mv_wizard_0_emerald,0,Emerald Fire IV,ディミ・ムーンバースト・エメラルド,祖母绿狄米月爆
+mv_wizard_1_emerald,0,Emerald Paradox,ラト・ムーンバースト・エメラルド,祖母绿拉特月爆
+mv_wizard_2_emerald,0,Emerald Xenoglossy,星の渦・エメラルド,祖母绿星辰漩涡
+mv_wizard_3_emerald,0,Emerald Ley Lines,星の封印・エメラルド,祖母绿星辰封印
+,,,,
+,,,,
+,,,,
+,,,,
+mv_assassin_0,0,Spinning Edge,刹那の一刀,迅斩
+mv_assassin_1,0,Throwing Dagger,ナイフジャグリング,飞刀
+mv_assassin_2,0,Assassinate,暗殺,刺杀
+mv_assassin_3,0,Shukuchi,影隠れ,幽影步
+,,,,
+mv_assassin_0_diamond,0,Diamond Spinning Edge,刹那の一刀・ダイヤ,钻石迅斩
+mv_assassin_1_diamond,0,Diamond Throwing Dagger,ナイフジャグリング・ダイヤ,钻石飞刀
+mv_assassin_2_diamond,0,Diamond Assassinate,暗殺・ダイヤ,钻石刺杀
+mv_assassin_3_diamond,0,Diamond Shukuchi,影隠れ・ダイヤ,钻石幽影步
+,,,,
+mv_assassin_0_opal,0,Opal Spinning Edge,刹那の一刀・オパール,蛋白石迅斩
+mv_assassin_1_opal,0,Opal Throwing Dagger,ナイフジャグリング・オパール,蛋白石飞刀
+mv_assassin_2_opal,0,Opal Assassinate,暗殺・オパール,蛋白石刺杀
+mv_assassin_3_opal,0,Opal Shukuchi,影隠れ・オパール,蛋白石幽影步
+,,,,
+mv_assassin_0_sapphire,0,Sapphire Spinning Edge,刹那の一刀・サファイア,蓝宝石迅斩
+mv_assassin_1_sapphire,0,Sapphire Throwing Dagger,ナイフジャグリング・サファイア,蓝宝石飞刀
+mv_assassin_2_sapphire,0,Sapphire Assassinate,暗殺・サファイア,蓝宝石刺杀
+mv_assassin_3_sapphire,0,Sapphire Shukuchi,影隠れ・サファイア,蓝宝石幽影步
+,,,,
+mv_assassin_0_ruby,0,Ruby Spinning Edge,刹那の一刀・ルビー,红宝石迅斩
+mv_assassin_1_ruby,0,Ruby Throwing Dagger,ナイフジャグリング・ルビー,红宝石飞刀
+mv_assassin_2_ruby,0,Ruby Assassinate,暗殺・ルビー,红宝石刺杀
+mv_assassin_3_ruby,0,Ruby Shukuchi,影隠れ・ルビー,红宝石幽影步
+,,,,
+mv_assassin_0_garnet,0,Garnet Spinning Edge,刹那の一刀・ガーネット,石榴石迅斩
+mv_assassin_1_garnet,0,Garnet Throwing Dagger,ナイフジャグリング・ガーネット,石榴石飞刀
+mv_assassin_2_garnet,0,Garnet Assassinate,暗殺・ガーネット,石榴石刺杀
+mv_assassin_3_garnet,0,Garnet Shukuchi,影隠れ・ガーネット,石榴石幽影步
+,,,,
+mv_assassin_0_emerald,0,Emerald Spinning Edge,刹那の一刀・エメラルド,祖母绿迅斩
+mv_assassin_1_emerald,0,Emerald Throwing Dagger,ナイフジャグリング・エメラルド,祖母绿飞刀
+mv_assassin_2_emerald,0,Emerald Assassinate,暗殺・エメラルド,祖母绿刺杀
+mv_assassin_3_emerald,0,Emerald Shukuchi,影隠れ・エメラルド,祖母绿幽影步
+,,,,
+,,,,
+,,,,
+mv_hblade_0,0,Bloodspiller,満月,满月
+mv_hblade_1,0,Shadowbringer,闇波,暗波
+mv_hblade_2,0,Plunge,回転跳び,转体飞跃
+mv_hblade_3,0,The Blackest Night,影の防壁,暗影结界
+,,,,
+mv_hblade_0_diamond,0,Diamond Bloodspiller,満月・ダイヤ,钻石满月
+mv_hblade_1_diamond,0,Diamond Shadowbringer,闇波・ダイヤ,钻石暗波
+mv_hblade_2_diamond,0,Diamond Plunge,回転跳び・ダイヤ,钻石转体飞跃
+mv_hblade_3_diamond,0,Diamond The Blackest Night,影の防壁・ダイヤ,钻石暗影结界
+,,,,
+mv_hblade_0_opal,0,Opal Bloodspiller,満月・オパール,蛋白石满月
+mv_hblade_1_opal,0,Opal Shadowbringer,闇波・オパール,蛋白石暗波
+mv_hblade_2_opal,0,Opal Plunge,回転跳び・オパール,蛋白石转体飞跃
+mv_hblade_3_opal,0,Opal The Blackest Night,影の防壁・オパール,蛋白石暗影结界
+,,,,
+mv_hblade_0_sapphire,0,Sapphire Bloodspiller,満月・サファイア,蓝宝石满月
+mv_hblade_1_sapphire,0,Sapphire Shadowbringer,闇波・サファイア,蓝宝石暗波
+mv_hblade_2_sapphire,0,Sapphire Plunge,回転跳び・サファイア,蓝宝石转体飞跃
+mv_hblade_3_sapphire,0,Sapphire The Blackest Night,影の防壁・サファイア,蓝宝石暗影结界
+,,,,
+mv_hblade_0_ruby,0,Ruby Bloodspiller,満月・ルビー,红宝石满月
+mv_hblade_1_ruby,0,Ruby Shadowbringer,闇波・ルビー,红宝石暗波
+mv_hblade_2_ruby,0,Ruby Plunge,回転跳び・ルビー,红宝石转体飞跃
+mv_hblade_3_ruby,0,Ruby The Blackest Night,影の防壁・ルビー,红宝石暗影结界
+,,,,
+mv_hblade_0_garnet,0,Garnet Bloodspiller,満月・ガーネット,石榴石满月
+mv_hblade_1_garnet,0,Garnet Shadowbringer,闇波・ガーネット,石榴石暗波
+mv_hblade_2_garnet,0,Garnet Plunge,回転跳び・ガーネット,石榴石转体飞跃
+mv_hblade_3_garnet,0,Garnet The Blackest Night,影の防壁・ガーネット,石榴石暗影结界
+,,,,
+mv_hblade_0_emerald,0,Emerald Bloodspiller,満月・エメラルド,祖母绿满月
+mv_hblade_1_emerald,0,Emerald Shadowbringer,闇波・エメラルド,祖母绿暗波
+mv_hblade_2_emerald,0,Emerald Plunge,回転跳び・エメラルド,祖母绿转体飞跃
+mv_hblade_3_emerald,0,Emerald The Blackest Night,影の防壁・エメラルド,祖母绿暗影结界
+,,,,
+,,,,
+,,,,
+mv_dancer_0,0,Cascade,舞い踊る薔薇,玫瑰旋舞
+mv_dancer_1,0,Fountain,舞い落ちる花弁,落花
+mv_dancer_2,0,Fan Dance III,百合の花,百合花开
+mv_dancer_3,0,Technical Step,黄金の恵み,金雅芳馨
+,,,,
+mv_dancer_0_diamond,0,Diamond Cascade,舞い踊る薔薇・ダイヤ,钻石玫瑰旋舞
+mv_dancer_1_diamond,0,Diamond Fountain,舞い落ちる花弁・ダイヤ,钻石落花
+mv_dancer_2_diamond,0,Diamond Fan Dance III,百合の花・ダイヤ,钻石百合花开
+mv_dancer_3_diamond,0,Diamond Technical Step,黄金の恵み・ダイヤ,钻石金雅芳馨
+,,,,
+mv_dancer_0_opal,0,Opal Cascade,舞い踊る薔薇・オパール,蛋白石玫瑰旋舞
+mv_dancer_1_opal,0,Opal Fountain,舞い落ちる花弁・オパール,蛋白石落花
+mv_dancer_2_opal,0,Opal Fan Dance III,百合の花・オパール,蛋白石百合花开
+mv_dancer_3_opal,0,Opal Technical Step,黄金の恵み・オパール,蛋白石金雅芳馨
+,,,,
+mv_dancer_0_sapphire,0,Sapphire Cascade,舞い踊る薔薇・サファイア,蓝宝石玫瑰旋舞
+mv_dancer_1_sapphire,0,Sapphire Fountain,舞い落ちる花弁・サファイア,蓝宝石落花
+mv_dancer_2_sapphire,0,Sapphire Fan Dance III,百合の花・サファイア,蓝宝石百合花开
+mv_dancer_3_sapphire,0,Sapphire Technical Step,黄金の恵み・サファイア,蓝宝石金雅芳馨
+,,,,
+mv_dancer_0_ruby,0,Ruby Cascade,舞い踊る薔薇・ルビー,红宝石玫瑰旋舞
+mv_dancer_1_ruby,0,Ruby Fountain,舞い落ちる花弁・ルビー,红宝石落花
+mv_dancer_2_ruby,0,Ruby Fan Dance III,百合の花・ルビー,红宝石百合花开
+mv_dancer_3_ruby,0,Ruby Technical Step,黄金の恵み・ルビー,红宝石金雅芳馨
+,,,,
+mv_dancer_0_garnet,0,Garnet Cascade,舞い踊る薔薇・ガーネット,石榴石玫瑰旋舞
+mv_dancer_1_garnet,0,Garnet Fountain,舞い落ちる花弁・ガーネット,石榴石落花
+mv_dancer_2_garnet,0,Garnet Fan Dance III,百合の花・ガーネット,石榴石百合花开
+mv_dancer_3_garnet,0,Garnet Technical Step,黄金の恵み・ガーネット,石榴石金雅芳馨
+,,,,
+mv_dancer_0_emerald,0,Emerald Cascade,舞い踊る薔薇・エメラルド,祖母绿玫瑰旋舞
+mv_dancer_1_emerald,0,Emerald Fountain,舞い落ちる花弁・エメラルド,祖母绿落花
+mv_dancer_2_emerald,0,Emerald Fan Dance III,百合の花・エメラルド,祖母绿百合花开
+mv_dancer_3_emerald,0,Emerald Technical Step,黄金の恵み・エメラルド,祖母绿金雅芳馨
+,,,,
+,,,,
+,,,,
+mv_druid_0,0,Broil,ディミ・ライフ,狄米生力
+mv_druid_1,0,Biolysis,ラト・ライフ,拉特生力
+mv_druid_2,0,Summon Eos,精霊の召喚,召唤精灵
+mv_druid_3,0,Expedient,自然の恵み,自然庇佑
+,,,,
+mv_druid_0_diamond,0,Diamond Broil,ディミ・ライフ・ダイヤ,钻石狄米生力
+mv_druid_1_diamond,0,Diamond Biolysis,ラト・ライフ・ダイヤ,钻石拉特生力
+mv_druid_2_diamond,0,Diamond Summon Eos,精霊の召喚・ダイヤ,钻石召唤精灵
+mv_druid_3_diamond,0,Diamond Expedient,自然の恵み・ダイヤ,钻石自然庇佑
+,,,,
+mv_druid_0_opal,0,Opal Broil,ディミ・ライフ・オパール,蛋白石狄米生力
+mv_druid_1_opal,0,Opal Biolysis,ラト・ライフ・オパール,蛋白石拉特生力
+mv_druid_2_opal,0,Opal Summon Eos,精霊の召喚・オパール,蛋白石召唤精灵
+mv_druid_3_opal,0,Opal Expedient,自然の恵み・オパール,蛋白石自然庇佑
+,,,,
+mv_druid_0_sapphire,0,Sapphire Broil,ディミ・ライフ・サファイア,蓝宝石狄米生力
+mv_druid_1_sapphire,0,Sapphire Biolysis,ラト・ライフ・サファイア,蓝宝石拉特生力
+mv_druid_2_sapphire,0,Sapphire Summon Eos,精霊の召喚・サファイア,蓝宝石召唤精灵
+mv_druid_3_sapphire,0,Sapphire Expedient,自然の恵み・サファイア,蓝宝石自然庇佑
+,,,,
+mv_druid_0_ruby,0,Ruby Broil,ディミ・ライフ・ルビー,红宝石狄米生力
+mv_druid_1_ruby,0,Ruby Biolysis,ラト・ライフ・ルビー,红宝石拉特生力
+mv_druid_2_ruby,0,Ruby Summon Eos,精霊の召喚・ルビー,红宝石召唤精灵
+mv_druid_3_ruby,0,Ruby Expedient,自然の恵み・ルビー,红宝石自然庇佑
+,,,,
+mv_druid_0_garnet,0,Garnet Broil,ディミ・ライフ・ガーネット,石榴石狄米生力
+mv_druid_1_garnet,0,Garnet Biolysis,ラト・ライフ・ガーネット,石榴石拉特生力
+mv_druid_2_garnet,0,Garnet Summon Eos,精霊の召喚・ガーネット,石榴石召唤精灵
+mv_druid_3_garnet,0,Garnet Expedient,自然の恵み・ガーネット,石榴石自然庇佑
+,,,,
+mv_druid_0_emerald,0,Emerald Broil,ディミ・ライフ・エメラルド,祖母绿狄米生力
+mv_druid_1_emerald,0,Emerald Biolysis,ラト・ライフ・エメラルド,祖母绿拉特生力
+mv_druid_2_emerald,0,Emerald Summon Eos,精霊の召喚・エメラルド,祖母绿召唤精灵
+mv_druid_3_emerald,0,Emerald Expedient,自然の恵み・エメラルド,祖母绿自然庇佑
+,,,,
+,,,,
+,,,,
+,,,,
+mv_spsword_0,0,Riposte,剣突き,剑刺
+mv_spsword_1,0,Jolt,スペルサイフォン,虹吸法咒
+mv_spsword_2,0,Resolution,魔法の小尖塔,魔法飞刺
+mv_spsword_3,0,Magick Barrier,ノヴィ・ダーク,诺维黑暗
+,,,,
+mv_spsword_0_diamond,0,Diamond Riposte,剣突き・ダイヤ,钻石剑刺
+mv_spsword_1_diamond,0,Diamond Jolt,スペルサイフォン・ダイヤ,钻石虹吸法咒
+mv_spsword_2_diamond,0,Diamond Resolution,魔法の小尖塔・ダイヤ,钻石魔法飞刺
+mv_spsword_3_diamond,0,Diamond Magick Barrier,ノヴィ・ダーク・ダイヤ,钻石诺维黑暗
+,,,,
+mv_spsword_0_opal,0,Opal Riposte,剣突き・オパール,蛋白石剑刺
+mv_spsword_1_opal,0,Opal Jolt,スペルサイフォン・オパール,蛋白石虹吸法咒
+mv_spsword_2_opal,0,Opal Resolution,魔法の小尖塔・オパール,蛋白石魔法飞刺
+mv_spsword_3_opal,0,Opal Magick Barrier,ノヴィ・ダーク・オパール,蛋白石诺维黑暗
+,,,,
+mv_spsword_0_sapphire,0,Sapphire Riposte,剣突き・サファイア,蓝宝石剑刺
+mv_spsword_1_sapphire,0,Sapphire Jolt,サイフォン魔法・サファイア,蓝宝石虹吸法咒
+mv_spsword_2_sapphire,0,Sapphire Resolution,魔法の小尖塔・サファイア,蓝宝石魔法飞刺
+mv_spsword_3_sapphire,0,Sapphire Magick Barrier,ノヴィ・ダーク・サファイア,蓝宝石诺维黑暗
+,,,,
+mv_spsword_0_ruby,0,Ruby Riposte,剣突き・ルビー,红宝石剑刺
+mv_spsword_1_ruby,0,Ruby Jolt,スペルサイフォン・ルビー,红宝石虹吸法咒
+mv_spsword_2_ruby,0,Ruby Resolution,魔法の小尖塔・ルビー,红宝石魔法飞刺
+mv_spsword_3_ruby,0,Ruby Magick Barrier,ノヴィ・ダーク・ルビー,红宝石诺维黑暗
+,,,,
+mv_spsword_0_garnet,0,Garnet Riposte,剣突き・ガーネット,石榴石剑刺
+mv_spsword_1_garnet,0,Garnet Jolt,スペルサイフォン・ガーネット,石榴石虹吸法咒
+mv_spsword_2_garnet,0,Garnet Resolution,魔法の小尖塔・ガーネット,石榴石魔法飞刺
+mv_spsword_3_garnet,0,Garnet Magick Barrier,ノヴィ・ダーク・ガーネット,石榴石诺维黑暗
+,,,,
+mv_spsword_0_emerald,0,Emerald Riposte,剣突き・エメラルド,祖母绿剑刺
+mv_spsword_1_emerald,0,Emerald Jolt,スペルサイフォン・エメラルド,祖母绿虹吸法咒
+mv_spsword_2_emerald,0,Emerald Resolution,魔法の小尖塔・エメラルド,祖母绿魔法飞刺
+mv_spsword_3_emerald,0,Emerald Magick Barrier,ノヴィ・ダーク・エメラルド,祖母绿诺维黑暗
+,,,,
+,,,,
+,,,,
+mv_sniper_0,0,Burst Shot,アローショット,射箭
+mv_sniper_1,0,Stormbite,ウサギのワナ,兔子套
+mv_sniper_2,0,Refulgent Arrow,弾幕砲火,弹幕火力
+mv_sniper_3,0,Repel,狙い撃ち,瞄准
+,,,,
+mv_sniper_0_diamond,0,Diamond Burst Shot,アローショット・ダイヤ,钻石射箭
+mv_sniper_1_diamond,0,Diamond Stormbite,ウサギのワナ・ダイヤ,钻石兔子套
+mv_sniper_2_diamond,0,Diamond Refulgent Arrow,弾幕砲火・ダイヤ,钻石弹幕火力
+mv_sniper_3_diamond,0,Diamond Repel,狙い撃ち・ダイヤ,钻石瞄准
+,,,,
+mv_sniper_0_opal,0,Opal Burst Shot,アローショット・オパール,蛋白石射箭
+mv_sniper_1_opal,0,Opal Stormbite,ウサギのワナ・オパール,蛋白石兔子套
+mv_sniper_2_opal,0,Opal Refulgent Arrow,弾幕砲火・オパール,蛋白石弹幕火力
+mv_sniper_3_opal,0,Opal Repel,狙い撃ち・オパール,蛋白石瞄准
+,,,,
+mv_sniper_0_sapphire,0,Sapphire Burst Shot,アローショット・サファイア,蓝宝石射箭
+mv_sniper_1_sapphire,0,Sapphire Stormbite,ウサギのワナ・サファイア,蓝宝石兔子套
+mv_sniper_2_sapphire,0,Sapphire Refulgent Arrow,弾幕砲火・サファイア,蓝宝石弹幕火力
+mv_sniper_3_sapphire,0,Sapphire Repel,狙い撃ち・サファイア,蓝宝石瞄准
+,,,,
+mv_sniper_0_ruby,0,Ruby Burst Shot,アローショット・ルビー,红宝石射箭
+mv_sniper_1_ruby,0,Ruby Stormbite,ウサギのワナ・ルビー,红宝石兔子套
+mv_sniper_2_ruby,0,Ruby Refulgent Arrow,弾幕砲火・ルビー,红宝石弹幕火力
+mv_sniper_3_ruby,0,Ruby Repel,狙い撃ち・ルビー,红宝石瞄准
+,,,,
+mv_sniper_0_garnet,0,Garnet Burst Shot,アローショット・ガーネット,石榴石射箭
+mv_sniper_1_garnet,0,Garnet Stormbite,ウサギのワナ・ガーネット,石榴石兔子套
+mv_sniper_2_garnet,0,Garnet Refulgent Arrow,弾幕砲火・ガーネット,石榴石弹幕火力
+mv_sniper_3_garnet,0,Garnet Repel,狙い撃ち・ガーネット,石榴石瞄准
+,,,,
+mv_sniper_0_emerald,0,Emerald Burst Shot,アローショット・エメラルド,祖母绿射箭
+mv_sniper_1_emerald,0,Emerald Stormbite,ウサギのワナ・エメラルド,祖母绿兔子套
+mv_sniper_2_emerald,0,Emerald Refulgent Arrow,弾幕砲火・エメラルド,祖母绿弹幕火力
+mv_sniper_3_emerald,0,Emerald Repel,狙い撃ち・エメラルド,祖母绿瞄准
+,,,,
+,,,,
+,,,,
+mv_bruiser_0,0,Enlightenment,フレイムフック,火焰勾拳
+mv_bruiser_1,0,Bootshine,クイックジャブ,快直拳
+mv_bruiser_2,0,Brotherhood,狂乱,暴怒
+mv_bruiser_3,0,Thunderclap,フットワーク,脚法
+,,,,
+mv_bruiser_0_diamond,0,Diamond Enlightenment,フレイムフック・ダイヤ,钻石火焰勾拳
+mv_bruiser_1_diamond,0,Diamond Bootshine,クイックジャブ・ダイヤ,钻石快直拳
+mv_bruiser_2_diamond,0,Diamond Brotherhood,狂乱・ダイヤ,钻石暴怒
+mv_bruiser_3_diamond,0,Diamond Thunderclap,フットワーク・ダイヤ,钻石脚法
+,,,,
+mv_bruiser_0_opal,0,Opal Enlightenment,フレイムフック・オパール,蛋白石火焰勾拳
+mv_bruiser_1_opal,0,Opal Bootshine,クイックジャブ・オパール,蛋白石快直拳
+mv_bruiser_2_opal,0,Opal Brotherhood,狂乱・オパール,蛋白石暴怒
+mv_bruiser_3_opal,0,Opal Thunderclap,フットワーク・オパール,蛋白石脚法
+,,,,
+mv_bruiser_0_sapphire,0,Sapphire Enlightenment,フレイムフック・サファイア,蓝宝石火焰勾拳
+mv_bruiser_1_sapphire,0,Sapphire Bootshine,クイックジャブ・サファイア,蓝宝石快直拳
+mv_bruiser_2_sapphire,0,Sapphire Brotherhood,狂乱・サファイア,蓝宝石暴怒
+mv_bruiser_3_sapphire,0,Sapphire Thunderclap,フットワーク・サファイア,蓝宝石脚法
+,,,,
+mv_bruiser_0_ruby,0,Ruby Enlightenment,フレイムフック・ルビー,红宝石火焰勾拳
+mv_bruiser_1_ruby,0,Ruby Bootshine,クイックジャブ・ルビー,红宝石快直拳
+mv_bruiser_2_ruby,0,Ruby Brotherhood,狂乱・ルビー,红宝石暴怒
+mv_bruiser_3_ruby,0,Ruby Thunderclap,フットワーク・ルビー,红宝石脚法
+,,,,
+mv_bruiser_0_garnet,0,Garnet Enlightenment,フレイムフック・ガーネット,石榴石火焰勾拳
+mv_bruiser_1_garnet,0,Garnet Bootshine,クイックジャブ・ガーネット,石榴石快直拳
+mv_bruiser_2_garnet,0,Garnet Brotherhood,狂乱・ガーネット,石榴石暴怒
+mv_bruiser_3_garnet,0,Garnet Thunderclap,フットワーク・ガーネット,石榴石脚法
+,,,,
+mv_bruiser_0_emerald,0,Emerald Enlightenment,フレイムフック・エメラルド,祖母绿火焰勾拳
+mv_bruiser_1_emerald,0,Emerald Bootshine,クイックジャブ・エメラルド,祖母绿快直拳
+mv_bruiser_2_emerald,0,Emerald Brotherhood,狂乱・エメラルド,祖母绿暴怒
+mv_bruiser_3_emerald,0,Emerald Thunderclap,フットワーク・エメラルド,祖母绿脚法
+,,,,
+,,,,
+,,,,
+mv_defender_0,0,Atonement,槍突き,尖矛
+mv_defender_1,0,Holy Spirit,ラト・ホリー,拉特神圣
+mv_defender_2,0,Holy Circle,ノヴィ・ホリー,诺维神圣
+mv_defender_3,0,Passage of Arms,ロール&ファランクス,翻滚方阵
+,,,,
+mv_defender_0_diamond,0,Diamond Atonement,槍突き・ダイヤ,钻石尖矛
+mv_defender_1_diamond,0,Diamond Holy Spirit,ラト・ホリー・ダイヤ,钻石拉特神圣
+mv_defender_2_diamond,0,Diamond Holy Circle,ノヴィ・ホリー・ダイヤ,钻石诺维神圣
+mv_defender_3_diamond,0,Diamond Passage of Arms,ロール&ファランクス・ダイヤ,钻石圆环方阵
+,,,,
+mv_defender_0_opal,0,Opal Atonement,槍突き・オパール,蛋白石尖矛
+mv_defender_1_opal,0,Opal Holy Spirit,ラト・ホリー・オパール,蛋白石拉特神圣
+mv_defender_2_opal,0,Opal Holy Circle,ノヴィ・ホリー・オパール,蛋白石诺维神圣
+mv_defender_3_opal,0,Opal Passage of Arms,ロール&ファランクス・オパール,蛋白石圆环方阵
+,,,,
+mv_defender_0_sapphire,0,Sapphire Atonement,槍突き・サファイア,蓝宝石尖矛
+mv_defender_1_sapphire,0,Sapphire Holy Spirit,ラト・ホリー・サファイア,蓝宝石拉特神圣
+mv_defender_2_sapphire,0,Sapphire Holy Circle,ノヴィ・ホリー・サファイア,蓝宝石诺维神圣
+mv_defender_3_sapphire,0,Sapphire Passage of Arms,ロール&ファランクス・サファイア,蓝宝石圆环方阵
+,,,,
+mv_defender_0_ruby,0,Ruby Atonement,槍突き・ルビー,红宝石尖矛
+mv_defender_1_ruby,0,Ruby Holy Spirit,ラト・ホリー・ルビー,红宝石拉特神圣
+mv_defender_2_ruby,0,Ruby Holy Circle,ノヴィ・ホリー・ルビー,红宝石诺维神圣
+mv_defender_3_ruby,0,Ruby Passage of Arms,ロール&ファランクス・ルビー,红宝石圆环方阵
+,,,,
+mv_defender_0_garnet,0,Garnet Atonement,槍突き・ガーネット,石榴石尖矛
+mv_defender_1_garnet,0,Garnet Holy Spirit,ラト・ホリー・ガーネット,石榴石拉特神圣
+mv_defender_2_garnet,0,Garnet Holy Circle,ノヴィ・ホリー・ガーネット,石榴石诺维神圣
+mv_defender_3_garnet,0,Garnet Passage of Arms,ロール&ファランクス・ガーネット,石榴石圆环方阵
+,,,,
+mv_defender_0_emerald,0,Emerald Atonement,槍突き・エメラルド,祖母绿尖矛
+mv_defender_1_emerald,0,Emerald Holy Spirit,ラト・ホリー・エメラルド,祖母绿拉特神圣
+mv_defender_2_emerald,0,Emerald Holy Circle,ノヴィ・ホリー・エメラルド,祖母绿诺维神圣
+mv_defender_3_emerald,0,Emerald Passage of Arms,ロール&ファランクス・エメラルド,祖母绿圆环方阵
+,,,,
+,,,,
+,,,,
+mv_ancient_0,0,Rite,攻撃命令,攻击号令
+mv_ancient_1,0,Place,行進命令,行进号令
+mv_ancient_2,0,Catastrophe,深淵からの喚び声,深渊呼唤
+mv_ancient_3,0,Radiant Aegis,保護命令,防护号令
+,,,,
+mv_ancient_0_diamond,0,Diamond Rite,攻撃命令・ダイヤ,钻石攻击号令
+mv_ancient_1_diamond,0,Diamond Place,行進命令・ダイヤ,钻石行进号令
+mv_ancient_2_diamond,0,Diamond Catastrophe,深淵からの喚び声・ダイヤ,钻石深渊呼唤
+mv_ancient_3_diamond,0,Diamond Radiant Aegis,保護命令・ダイヤ,钻石防护号令
+,,,,
+mv_ancient_0_opal,0,Opal Rite,攻撃命令・オパール,蛋白石攻击号令
+mv_ancient_1_opal,0,Opal Place,行進命令・オパール,蛋白石行进号令
+mv_ancient_2_opal,0,Opal Catastrophe,深淵からの喚び声・オパール,蛋白石深渊呼唤
+mv_ancient_3_opal,0,Opal Radiant Aegis,保護命令・オパール,蛋白石防护号令
+,,,,
+mv_ancient_0_sapphire,0,Sapphire Rite,攻撃命令・サファイア,蓝宝石攻击号令
+mv_ancient_1_sapphire,0,Sapphire Place,行進命令・サファイア,蓝宝石行进号令
+mv_ancient_2_sapphire,0,Sapphire Catastrophe,深淵からの喚び声・サファイア,蓝宝石深渊呼唤
+mv_ancient_3_sapphire,0,Sapphire Radiant Aegis,保護命令・サファイア,蓝宝石防护号令
+,,,,
+mv_ancient_0_ruby,0,Ruby Rite,攻撃命令・ルビー,红宝石攻击号令
+mv_ancient_1_ruby,0,Ruby Place,行進命令・ルビー,红宝石行进号令
+mv_ancient_2_ruby,0,Ruby Catastrophe,深淵からの喚び声・ルビー,红宝石深渊呼唤
+mv_ancient_3_ruby,0,Ruby Radiant Aegis,保護命令・ルビー,红宝石防护号令
+,,,,
+mv_ancient_0_garnet,0,Garnet Rite,攻撃命令・ガーネット,石榴石攻击号令
+mv_ancient_1_garnet,0,Garnet Place,行進命令・ガーネット,石榴石行进号令
+mv_ancient_2_garnet,0,Garnet Catastrophe,深淵からの喚び声・ガーネット,石榴石深渊呼唤
+mv_ancient_3_garnet,0,Garnet Radiant Aegis,保護命令・ガーネット,石榴石防护号令
+,,,,
+mv_ancient_0_emerald,0,Emerald Rite,攻撃命令・エメラルド,祖母绿攻击号令
+mv_ancient_1_emerald,0,Emerald Place,行進命令・エメラルド,祖母绿行进号令
+mv_ancient_2_emerald,0,Emerald Catastrophe,深淵からの喚び声・エメラルド,祖母绿深渊呼唤
+mv_ancient_3_emerald,0,Emerald Radiant Aegis,保護命令・エメラルド,祖母绿防护号令

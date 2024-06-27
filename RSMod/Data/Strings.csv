@@ -1,0 +1,209 @@
+key,English,Japanese,Chinese
+,,,
+stg_outskirts,Kingdom#Outskirts,王国郊外,王国郊外
+stg_nest,Scholar's#Nest,学者の隠れ家,学士窝巢
+stg_arsenal,King's#Arsenal,王の武器庫,王家兵械库
+stg_lighthouse,Red#Darkhouse,紅の暗灯台,绯色暗房
+stg_streets,Churchmouse#Streets,教会のネズミ通り,贫民街
+stg_lakeside,Emerald#Lakeside,翠玉の湖畔,祖母绿湖畔
+stg_keep,The Pale#Keep,真夜中の#天守閣,午夜堡垒
+stg_pinnacle,Moonlit#Pinnacle,月光の塔,明月塔顶
+,,,
+stg_outskirts2,Kingdom Outskirts,王国郊外,王国郊外
+stg_nest2,Scholar's Nest,学者の隠れ家,学士窝巢
+stg_arsenal2,King's Arsenal,王の武器庫,王家兵械库
+stg_lighthouse2,Red Darkhouse,紅の暗灯台,绯色暗房
+stg_streets2,Churchmouse Streets,教会のネズミ通り,贫民街
+stg_lakeside2,Emerald Lakeside,翠玉の湖畔,祖母绿湖畔
+stg_keep2,The Pale Keep,真夜中の#天守閣,午夜堡垒
+stg_pinnacle2,Moonlit Pinnacle,月光の塔,明月塔顶
+stg_random,Random Route,ランダムなルート,行动路线随机
+stg_credits,Credits,スタッフロール,片尾字幕
+,,,
+weapontype_primary,Primary,プライマリ,主技能
+weapontype_secondary,Secondary,セカンダリ,辅技能
+weapontype_special,Special,スペシャル,特殊技能
+weapontype_defensive,Defensive,ディフェンス,防御技能
+weapontype_loot,Loot,装備品,战利品
+weapontype_potion,Potion,ポーション,药水
+,,,
+itemtype_any,Any,すべて,任意
+itemtype_none,None,なし,无
+itemtype_ability,Ability,スキル,技能
+itemtype_loot,Loot,装備品,战利品
+itemtype_character,Rabbit,ウサギ,兔子
+,,,
+cd_title,CD:,CD:,冷却：
+cd_seconds,sec.,秒,秒
+,,,
+times_0,0 times,0回,0次
+times_1,once,1回,1次
+times_2,twice,2回,2次
+times_3,3 times,3回,3次
+times_4,4 times,4回,4次
+times_x,xnum times,xnum回,xnum次
+,,,
+seconds_1,1 second,1秒,1秒
+seconds_x,xnum seconds,xnum秒,xnum秒
+second_x,xnum second,xnum秒,xnum秒
+,,,
+talkact_dialog,Talk,話す,对话
+talkact_shop,Shop,ショップ,买东西
+talkact_proceed,Onward,先へ,继续前进
+,,,
+target_freeaim,free#aim,フリー#エイム,自主#瞄准
+target_lockedon,locked#on,ロック#オン,锁定#攻击
+,,,
+inv_close,CLOSE,閉じる,关闭
+inv_toggle_0,VIEW INVENTORY,かばん表示,查看背包
+inv_toggle_1,HIDE INVENTORY,かばん非表示,隐藏背包
+,,,
+store_close,EXIT STORE,ショップを出る,离开
+store_talk,TALK,話す,对话
+store_potion,potions,ポーション,药水
+store_upgrades,ability upgrades,スキルのアップグレード,技能升级
+store_comingsoon,coming soon...,準備中…,敬请期待……
+store_trinketbox,Trinket Box,アクセサリーボックス,装饰盒子
+,,,
+dialog_skip,skip,スキップ,跳过
+dialog_menu_header,your response...,返事…,你的回复……
+,,,
+chat_entermessage,ENTER MESSAGE,メッセージを入力,输入消息
+chat_close,CLOSE CHAT,チャットを閉じる,关闭聊天窗口
+,,,
+textbox_charlimit,character limit reached,文字数上限に到達,字符数量达到上限
+textbox_hiddentype,please only use a-z and 0-9,a-zと0-9の文字が使用できます,只能使用a到z这26个字母和0-9这10个数字
+,,,
+npc_treasure,Treasure Box,宝箱,宝箱
+npc_proceed,ONWARD,先へ,继续前进
+npc_proceed_multi,READY,準備完了,就绪
+npc_interact_dialog,Talk,話す,对话
+npc_interact_dialog2,Listen,聞く,听
+npc_interact_shop,Shop,ショップ,买东西
+npc_interact_upgrade,Upgrade,アップグレード,升级
+npc_interact_loot,Open,開く,打开
+npc_interact_pickup,Pickup,取る,捡
+npc_interact_attack,Attack,攻撃,攻击
+npc_interact_map,Map & Difficulty,マップと難易度,地图和难度
+npc_interact_trinket,Trinkets,アクセサリー,小装饰
+npc_interact_changechar,Reselect Class,クラスを再選択,重新选择职业
+npc_interact_holdinput,Hold Input...,長押し…,长按
+,,,
+,,,
+,,,
+,,,
+,,,
+event_loot_trap,The treasure was boobytrapped!,お宝にトラップが仕掛けられていた！,这个宝箱有诈！
+event_magic_dodge,Magicks manifest into danger!,魔法は危険と隣り合わせだ！,魔法化作险关！
+,,,
+proceed_next_header,NEXT:,次: ,下一站：
+proceed_next_loot,TREASURE,お宝,宝藏
+proceed_next_battle,BATTLE,バトル,战斗
+proceed_next_boss,AREA BOSS,エリアボス,区域头目
+proceed_next_store,SHOP,ショップ,商店
+proceed_next_upgrade,WEAPONSMITH,鍛冶師,兵匠
+proceed_next_ending,END,終了,终
+proceed_next_next,NEXT AREA,次のエリアへ,下一个区域
+proceed_next_event,EVENT,イベント,特殊事件
+,,,
+,,,
+clear_time,Clear Time,クリア時間,通关时间
+clear_time_s,timeAm s,timeAm秒,timeAm秒
+clear_dps,DPS,DPS,每秒伤害
+clear_dps_multi,Raid DPS,レイドDPS,团队每秒伤害
+clear_rewards,Rewards,報酬,奖励
+clear_rewards_multi,Rewards (Per Rabbit),報酬(ウサギごと),兔均奖励
+clear_rewards_none,None (too slow!),なし(遅すぎる！),无（太磨蹭啦！）
+clear_rewards_xp,xpNumxp,xpNumxp,xpNum点经验
+clear_rewards_gold,goldNum,goldNum,goldNum
+clear_rewards_both,xpNumxp & goldNum,xpNumxp & goldNum,xpNum点经验和goldNum
+,,,
+,,,
+infodraw_strength,damage:,威力:,伤害：
+infodraw_strength_sm,dmg:,威力:,伤害：
+infodraw_cooldown,cd:,CD:,冷却：
+infodraw_gcd,gcd:,GCD:,全局冷却：
+infodraw_maxstock,max uses:,最大ストック:,次数上限：
+infodraw_restock,restock:,再ストック:,恢复次数：
+infodraw_seconds,timeAms,timeAms,timeAm秒
+infodraw_upgrade,Upgrade to +upgradeAm, +upgradeAm にアップグレード,升至+upgradeAm
+,,,
+infodraw_charge,Charge: Charged attacks deal dmgAmx damage# when used.,チャージ: 使用時、チャージした攻撃でdmgAmxダメージ#を与える。,充能：充能攻击会造成dmgAm倍的伤害。
+infodraw_supercharge,Supercharge: Supercharged attacks deal# dmgAmx damage when used.,スーパーチャージ: 使用時、スーパーチャージした攻撃で#dmgAmx ダメージを与える。,超级充能：超级充能攻击会#造成dmgAm倍的伤害。
+infodraw_ultracharge,Ultracharge: Ultracharged attacks deal# dmgAmx damage when used.,ウルトラチャージ: 使用時、ウルトラチャージした攻撃で#dmgAmx ダメージを与える。,究极充能：究极充能攻击会#造成dmgAm倍的伤害。
+infodraw_omegacharge,Omegacharge: Omegacharged attacks deal# dmgAmx damage when used.,オメガチャージ: 使用時、オメガチャージした攻撃で#dmgAmx ダメージを与える。,终极充能：究极充能攻击会#造成dmgAm倍的伤害。
+infodraw_darkspell,Dualcast: All abilities hit twice.#Counter decreases with each ability used.,闇魔法: すべてのスキルの攻撃回数が2回になる。#各スキルが発動されるとカウンターが減る。,黑暗法咒：所有能力都会命中两次。#每使用一次能力，计数器数字便缩小一次。
+,,,
+,,,
+infodraw_short_header,adjusted values,調整値,调整数值
+infodraw_short_strength,dmg: amNum,威力: amNum,伤害：amNum
+infodraw_short_cooldown,cd: amNums,CD: amNum秒,冷却：amNum秒
+infodraw_short_gcd,gcd: amNums,GCD: amNum秒,全局冷却：amNum秒
+infodraw_short_numsec,numSecs,numSec秒,numSec秒
+,,,
+game_title,RABBIT & STEEL,RABBIT & STEEL,兔子与钢铁
+,,,
+lootroll_success,claimed!!,獲得！,拿到啦！
+lootroll_success_roll,(rollAm) claimed!!,(rollAm)獲得！,（rollAm）拿到啦！
+lootroll_failure_roll,(rollAm) pick again...,(rollAm)もう一度選んでね…,（rollAm）再挑一件……
+lootroll_skip,skipped!,スキップ済,跳过！
+,,,
+tut_movement,AVOID ATTACKS!,攻撃を避けろ！,避开攻击！
+tut_target,CHANGE TARGET,ターゲット変更,更改目标
+tut_target2,TARGET CLOSEST,一番近くのターゲット,攻击最近的目标
+tut_attack,HOW TO FIGHT,戦い方,战斗键位
+tut_hitbox,YOUR HITBOX#(JUST THAT DOT!),自分の当たり判定#(この点のみ！),你的命中范围#（就那一个点！）
+tut_hitbox_e,ENEMY HITBOX#(THIS LARGE CIRCLE),敵の当たり判定#(この大きな円),敌人的命中范围#（这个大圈）
+tut_primary,PRIMARY ATTACK,プライマリ攻撃,主技能
+tut_secondary,SECONDARY ATTACK,セカンダリ攻撃,辅技能
+tut_offensive,SPECIAL (VERY POWERFUL),スペシャル(高火力),特殊技能（非常强力）
+tut_defensive,DEFENSIVE (AVOID DAMAGE),ディフェンス(ダメージを回避),防御技能（避免伤害）
+,,,
+loot_choose,choose your loot!,装備品を選ぼう！,选战利品！
+loot_choose_again,choose again!,もう一度選んでね！,再选一次！
+loot_roll,rolling...,選択中…,掷骰子……
+loot_ready,ready!!,準備完了！,就绪！
+loot_waiting,waiting on others...,他の人を待機中…,等其他兔子……
+loot_skip,skip,スキップ,跳过
+loot_skip2,skipping...,スキップ中…,跳过……
+,,,
+charselect_choose,CHOOSE YOUR CLASS...,クラスを選択…,选择职业……
+charselect_name,enter name...,名前を入力…,输入昵称……
+charselect_random,RANDOM,ランダム,随机
+,,,
+movelist_abilities,clName ABILITIES,clNameスキル,clName技能
+movelist_ability_input,ABILITY#LIST,スキル#リスト,技能列表
+movelist_ability_input_h,HIDE#ABILITIES,スキルを#非表示,不显示#技能
+,,,
+tab_pause,PAUSE,一時停止,暂停游戏
+tab_chat,CHAT,チャット,聊天
+tab_log,LOG,ログ,对话记录
+tab_shop,SHOP,ショップ,买东西
+chatsys_name,System,システム,系统
+chatsys_client_joined,clientName joined!,clientNameが参加した！,clientName来啦！
+chatsys_client_left,clientName left...,clientNameが退室した…,clientName走了……
+chatsys_ally_joined,allyName joins the party!,allyNameがパーティーに加入した！,allyName入队！
+chatsys_ally_left,allyName left the party...,allyNameがパーティーから退会した…,allyName离队……
+,,,
+vd_title,VICTORY!,勝利！,胜利！
+vd_title2,DEFEAT!,敗北！,落败！
+vd_subtitle_demo,CONTINUED IN THE FULL GAME...,製品版に続く…,未完待续，敬请期待游戏完整版……
+vd_subtitle,THE NIGHT CALMS....,夜が明けてゆく…,夜静了下来……
+vd_subtitle2,TRY AGAIN WHEN YOU AWAKE...,目が覚めたらもう一度挑戦しよう…,睡醒之后再来……
+vd_subtitle3,TREASURESPHERE BROKEN...,宝玉の崩壊に成功！,宝球破坏成功……
+vd_followme,FOLLOW DEVELOPMENT,開発者をフォロー,关注开发进程
+,,,
+invstat_level,lv levelNum,lv levelNum,levelNum级
+invstat_loot,loot,装備品,战利品
+invstat_dpsmax,max dps: dmgAmount,最高DPS: dmgAmount,最高每秒伤害：dmgAmount
+inv_open_sm,INV,かばん,包
+,,,
+press_start,PRESS START,PRESS START,随便按一个键开始
+,,,
+treasure_small,Small trName,小trName,小trName
+treasure_medium,Medium trName,中trName,中trName
+treasure_large,Large trName,大trName,大trName
+,,,
+toybox_clear_upgrades,Clear#Upgrades,アップグレード#リセット,清除#升级项目
+toybox_clear_items,Clear#Items,装備品#リセット,清除#物品
+toybox_previous_loadout,Previous#Loadout,前回のアップグレード#と装備品,之前的升级项目#和物品

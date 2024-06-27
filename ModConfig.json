@@ -1,0 +1,66 @@
+{
+  "ModId": "rabbitsteel.ffxiv",
+  "ModName": "Rabbit and Steel FFXIV Mod",
+  "ModAuthor": "Seyren",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Mod that uses elements from Final Fantasy XIV.",
+  "ModDll": "",
+  "ModIcon": "FFXIVIcon.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "rabbitsteel.ffxiv.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "reloaded.universal.redirector": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Universal.Redirector",
+            "UseReleaseTag": false,
+            "AssetFileName": ""
+          },
+          "ReleaseMetadataName": "Reloaded.Universal.Redirector.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "reloaded.universal.redirector": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 51225
+          },
+          "ReleaseMetadataName": "Reloaded.Universal.Redirector.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GitHubRelease": {
+      "UserName": "Sheidyn",
+      "RepositoryName": "RabbitSteelModManager",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "rabbitsteel.exe"
+  ],
+  "ProjectUrl": ""
+}

@@ -1,0 +1,85 @@
+key,English,Japanese,Chinese
+,,,
+itdesc_charge,CHARGE,チャージ,充能
+itdesc_charges,CHARGES,チャージ,充能
+itdesc_supercharge,SUPERCHARGE,スーパーチャージ,超级充能
+itdesc_supercharges,SUPERCHARGES,スーパーチャージ,超级充能
+itdesc_ultracharge,ULTRACHARGE,ウルトラチャージ,究极充能
+itdesc_ultracharges,ULTRACHARGES,ウルトラチャージ,究极充能
+itdesc_omegacharge,OMEGACHARGE,オメガチャージ,终极充能
+itdesc_omegacharges,OMEGACHARGES,オメガチャージ,终极充能
+,,,
+itdesc_darkspell,DUALCAST,闇魔法,黑暗法咒
+,,,
+itdesc_vanish,SHADE SHIFT,雲隠れ,隐身
+itdesc_ghost,HIDDEN,幽霊,鬼魂
+itdesc_warcry,TECHNICAL FINISH,激励,战吼
+itdesc_stoneskin,STONESKIN,硬化,石肤
+itdesc_graniteskin,GRANITESKIN,岩化,大理石肤
+itdesc_lucky,RABBITLUCK,ウサギの幸運,兔兔好运
+itdesc_super,EPIC ECHO,スーパー,超化
+itdesc_flutterstep,EXPEDIENCE,蝶の飛翔,步生莲
+itdesc_haste,HASTE,加速,加速
+itdesc_smite,DAMAGE UP,聖なる力,神力
+itdesc_elegy,ELEGY,哀歌,挽歌
+,,,
+itdesc_blackstrike,KAITEN,ブラックストライク,黑色打击
+itdesc_stillness,DIVINATION,安らぎ,宁静
+itdesc_counter,COUNTER,カウンター,反击
+itdesc_quickness,QUICKNESS,敏捷,迅捷
+itdesc_repeat,REPEAT,リピート,反复
+,,,
+itdesc_flowstr,THE BALANCE,フロー・強さ,流动-力量
+itdesc_flowdex,THE ARROW,フロー・機敏さ,流动-机敏
+itdesc_flowint,THE SPEAR,フロー・知恵,流动-智能
+,,,
+itdesc_flashstr,THE SPIRE,フラッシュ・強さ,闪烁-力量
+itdesc_flashdex,THE BOLE,フラッシュ・機敏さ,闪烁-机敏
+itdesc_flashint,THE EWER,フラッシュ・知恵,闪烁-智能
+,,,
+itdesc_astra,ASTRA,アストラ,星辉
+itdesc_nova,NOVA,ノヴァ,新星
+itdesc_hex,VULNERABILITY UP,魔術,咒术
+itdesc_hex_super,S VULNERABILITY UP,超魔術,超咒
+itdesc_hex_poison,FRAZZLE,毒魔術,毒咒
+itdesc_hex_anti,EMBOLDEN,反対魔術,反咒
+,,,
+itdesc_snare,STORMBITE,ワナ,圈套
+itdesc_snare2,TRI-SNARE,三重ワナ,三重圈套
+itdesc_berserk,BROTHERHOOD,ベルセルク,狂暴
+itdesc_abyssrage,RIDDLE OF FIRE,深淵の怒り,深渊激昂
+,,,
+itdesc_curse,RESISTANCE DOWN,呪い,诅咒
+itdesc_spark,THUNDER,スパーク,星火
+itdesc_decay,DECAY,腐敗,朽败
+itdesc_poison,BIO,毒,毒伤
+itdesc_burn,BURN,燃焼,灼烧
+itdesc_bleed,BLEED,出血,出血
+itdesc_sap,SAP,衰弱,虚弱
+itdesc_ghostflame,DEATH WARRANT,霊炎,魂焰
+,,,
+itemset_arcane,The Arcane Set,闇魔セット,玄秘套装
+itemset_night,The Night Set,夜セット,暗夜套装
+itemset_timespace,The Timespace Set,時空間セット,时空套装
+itemset_wind,The Wind Set,風セット,风之套装
+itemset_bloodwolf,The Bloodwolf Set,血狼セット,血狼套装
+itemset_assassin,The Assassin Set,忍びセット,杀手套装
+itemset_rockdragon,The Rockdragon Set,岩竜セット,石龙套装
+itemset_flame,The Flame Set,火炎セット,火焰套装
+itemset_gem,The Gem Set,宝石セット,宝石套装
+itemset_lightning,The Lightning Set,稲妻セット,霹雳套装
+itemset_shrine,The Shrine Set,神社セット,神殿套装
+itemset_lucky,The Lucky Set,幸運セット,好运套装
+itemset_life,The Life Set,生命セット,生命套装
+itemset_poison,The Poison Set,毒セット,毒物套装
+itemset_depth,The Depth Set,深淵セット,深邃套装
+itemset_darkbite,The Darkbite Set,刺傷セット,暗噬套装
+itemset_timegem,The Timegem Set,時宝石セット,时间宝石套装
+itemset_youkai,The Youkai Set,妖怪セット,妖怪套装
+itemset_haunted,The Haunted Set,霊感セット,阴魂套装
+itemset_gladiator,The Gladiator Set,剣闘士セット,斗士套装
+itemset_sparkblade,The Sparkblade Set,火花の刃セット,火刃套装
+itemset_swiftflight,The Swiftflight Set,敏速飛行セット,疾飞套装
+itemset_sacredflame,The Sacredflame Set,聖なる火炎セット,圣焰套装
+itemset_ruins,The Ruins Set,遺跡セット,遗迹套装
+itemset_lakeshrine,The Lakeshrine Set,寺院セット,湖中殿套装

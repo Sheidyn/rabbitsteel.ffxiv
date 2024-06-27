@@ -1,0 +1,97 @@
+key,level,English,Japanese,Chinese
+,,,,
+,,,,
+hbs_vanish,0,Shade Shift,雲隠れ,隐身
+hbs_ghost,0,Hidden,幽霊,鬼魂
+hbs_warcry,0,Technical Finish,激励,战吼
+hbs_flutterstep,0,Expedience,蝶の飛翔,步生莲
+,,,,
+hbs_lucky,0,Lucky Carrot,ウサギの幸運,兔兔好运
+hbs_stoneskin,0,Stoneskin,硬化,石肤
+hbs_graniteskin,0,Rampart,岩化,大理石肤
+hbs_super,0,Epic Echo,スーパー,超化
+hbs_elegy,0,Elegy,哀歌,Elegy
+,,,,
+hbs_haste,0,Haste,加速,加速
+hbs_smite,0,Damage Up,聖なる力,神力
+hbs_counter,0,Counter,カウンター,反击
+,,,,
+hbs_blackstrike,0,Kaiten,ブラックストライク,黑色打击
+hbs_stillness,0,Divination,安らぎ,宁静
+,,,,
+hbs_quickness,0,Quickness,敏捷,迅捷
+hbs_repeat,0,Repeat,リピート,反复
+,,,,
+hbs_flowstr,0,The Balance,フロー・強さ,流动-力量
+hbs_flowdex,0,The Arrow,フロー・機敏さ,流动-机敏
+hbs_flowint,0,The Spear,フロー・知恵,流动-智能
+,,,,
+hbs_flashstr,0,The Spire,フラッシュ・強さ,闪烁-力量
+hbs_flashdex,0,The Bole,フラッシュ・機敏さ,闪烁-机敏
+hbs_flashint,0,The Ewer,フラッシュ・知恵,闪烁-智能
+,,,,
+hbs_astra,0,Circle of Power,アストラ,星辉
+hbs_nova,0,Enochian,ノヴァ,新星
+,,,,
+hbs_hex,0,Vulnerability Up,魔術,咒术
+hbs_hex_super,0,S Vulnerability Up,超魔術,超咒
+hbs_hex_poison,0,Frazzle,毒魔術,毒咒
+hbs_hex_anti,0,Embolden,反対魔術,反咒
+,,,,
+hbs_snare,0,Stormbite,ワナ,圈套
+hbs_snare2,0,Tri-Snare,三重ワナ,三重圈套
+hbs_berserk,0,Brotherhood,ベルセルク,狂暴
+hbs_abyssrage,0,Riddle of Fire,深淵の怒り,深渊激昂
+,,,,
+,,,,
+hbs_curse,0,Resistance Down,呪い,诅咒
+hbs_decay,0,Decay,腐敗,朽败
+hbs_spark,0,Thunder,スパーク,星火
+hbs_poison,0,Bio,毒,毒伤
+hbs_burn,0,Burn,燃焼,灼烧
+hbs_bleed,0,Bleed,出血,出血
+hbs_sap,0,Sap,衰弱,虚弱
+hbs_ghostflame,0,Death Wrrant,霊炎,魂焰
+,,,,
+,,,,
+,,,,
+hbs_holyshield,0,Hallowed Ground,ホリーシールド,圣盾
+hbs_vanishenemy,0,Shade Shift,雲隠れ,隐身
+,,,,
+hbs_gravity,0,Gravity,重力,引力
+hbs_gravity2,0,Gravity,重力,引力
+hbs_bind,0,Bind,縛り,束缚
+hbs_teleport,0,Teleport,テレポート,传送
+hbs_teleport2,0,Teleport-L,テレポートL,远传送
+hbs_teleport3,0,Teleport-S,テレポートS,近传送
+hbs_timestop,0,Timestop,時の静止,时停
+hbs_tailwind,0,Thin Ice,乱気流,乱流
+hbs_tailwind2,0,Thin Ice,乱気流,乱流
+hbs_tether,0,House Arrest,つなぎ縄,牵制
+hbs_heavy,0,Heavy,重い,沉重
+hbs_heavy2,0,Heavy,重い,沉重
+hbs_heavyextra,0,Very Heavy,とても重い,难堪其重
+hbs_heavyextra2,0,Very Heavy,とても重い,难堪其重
+hbs_nodefense,0,No Invulnerability,ディフェンス封印,防御抑制
+,,,,
+hbs_fieldlimit_0,0,Fieldlimit-P,フィールド制限(紫),拘束（紫）
+hbs_fieldlimit_1,0,Fieldlimit-B,フィールド制限(青),拘束（蓝）
+hbs_fieldlimit_2,0,Fieldlimit-R,フィールド制限(赤),拘束（红）
+hbs_fieldlimit_3,0,Fieldlimit-Y,フィールド制限(黄),拘束（黄）
+hbs_fieldlimit_4,0,Fieldlimit-G,フィールド制限(緑),拘束（绿）
+,,,,
+hbs_fieldlimit2_0,0,Fieldlimit-P,フィールド制限(紫),拘束（紫）
+hbs_fieldlimit2_1,0,Fieldlimit-B,フィールド制限(青),拘束（蓝）
+hbs_fieldlimit2_2,0,Fieldlimit-R,フィールド制限(赤),拘束（红）
+hbs_fieldlimit2_3,0,Fieldlimit-Y,フィールド制限(黄),拘束（黄）
+hbs_fieldlimit2_4,0,Fieldlimit-G,フィールド制限(緑),拘束（绿）
+,,,,
+hbs_order_0,0,First,1番,第一
+hbs_order_1,0,Second,2番,第二
+hbs_order_2,0,Third,3番,第三
+hbs_order_3,0,Fourth,4番,第四
+,,,,
+hbs_group_0,0,Group One,グループ1,一组
+hbs_group_1,0,Group Two,グループ2,二组
+hbs_group_2,0,Group Three,グループ3,三组
+hbs_group_3,0,Group Four,グループ4,四组
